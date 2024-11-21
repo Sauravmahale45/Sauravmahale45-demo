@@ -4,3 +4,9 @@ i am from  lasalgaon
  my project : stroke prediction
 
 	
+"2nd version"
+
+i am karan 
+i am from  nagpur
+ my project : wine prediction
+
